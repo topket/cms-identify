@@ -1,4 +1,4 @@
-simple, effective and efficient CMS identifier
+simple effective efficient CMS identifier
 - wordpress
 - drupal
 - joomla
