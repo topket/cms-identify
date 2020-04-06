@@ -5,4 +5,4 @@ simple and effeciant CMS identifier
 - magento
 - prestashop
 - opencart
-- easy to customize
++ easy to customize
