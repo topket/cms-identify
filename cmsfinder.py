@@ -8,7 +8,7 @@ def drcms(url):
             return r.text
         except:return False
             
-    def search(htlm, regexM, regexL):
+    def search(html, regexM, regexL):
         find = re.compile(regexM, re.IGNORECASE).findall(html)
         if find:
             clean = " ".join(find)
