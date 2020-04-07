@@ -1,6 +1,6 @@
 simple effective efficient CMS identifier
-- wordpress
-- drupal
+- wordpress (version detect)
+- drupal (version detect)
 - joomla
 - magento
 - prestashop
